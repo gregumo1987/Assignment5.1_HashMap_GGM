@@ -56,6 +56,7 @@ public class DictionaryApplication {
 		/* Iterate through the keySet and select every 87th (435/5)
 		 * to get five keys for printing.
 		 */
+		System.out.println("Greg Gutierrez.");
 		System.out.println("Using HashMap.get to retrieve data.");
 		System.out.println("-----------------------------------");
 		System.out.println("Note hashes calculated two ways, one using the\n"
